@@ -1,4 +1,5 @@
 Sandbox_PTBR = {
+	-- Build 39.6
 	Sandbox_SavedPresets = "Pré-seleções salvas:",
 	Sandbox_SaveButton = "SALVAR",
 	Sandbox_SavePrompt = "Salvar essa pré-seleção",
@@ -368,7 +369,7 @@ Sandbox_PTBR = {
 	Sandbox_ConstructionBonusPoints_option5 = "Muito Alto",
 	
 	Sandbox_InjurySeverity = "LESÃO GRAVE:",
-	Sandbox_InjurySeverity_tooltip = "AumentaA e diminui o impacto de lesões no seu corpo e seu tempo de cura.",
+	Sandbox_InjurySeverity_tooltip = "Aumenta ou diminui o impacto de lesões no seu corpo e seu tempo de cura.",
 	Sandbox_InjurySeverity_option1 = "Baixo",
 	Sandbox_InjurySeverity_option2 = "Normal",
 	Sandbox_InjurySeverity_option3 = "Alto",
@@ -432,7 +433,7 @@ Sandbox_PTBR = {
 	Sandbox_LockedCar_option6 = "Muito Frequente",
 	
 	Sandbox_CarGeneralCondition = "CONDIÇÃO GERAL:",
-	Sandbox_CarGeneralCondition_tooltip = "Em que condições novos carro vão aparecer.",
+	Sandbox_CarGeneralCondition_tooltip = "Em que condições novos carros vão aparecer.",
 	Sandbox_CarGeneralCondition_option1 = "Muito Ruim",
 	Sandbox_CarGeneralCondition_option2 = "Ruim",
 	Sandbox_CarGeneralCondition_option3 = "Normal",
@@ -444,7 +445,7 @@ Sandbox_PTBR = {
 	
 	Sandbox_CarAlarmFrequency = "FREQUÊNCIA DE ALARME DE CARROS:",
 	Sandbox_CarAlarmFrequency_option1 = "Nunca",
-	Sandbox_CarAlarmFrequency_option2 = "Extremamente Rar",
+	Sandbox_CarAlarmFrequency_option2 = "Extremamente Raro",
 	Sandbox_CarAlarmFrequency_option3 = "Raro",
 	Sandbox_CarAlarmFrequency_option4 = "As Vezes",
 	Sandbox_CarAlarmFrequency_option5 = "Frequente",
