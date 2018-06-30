@@ -131,7 +131,7 @@ Sandbox_PTBR = {
 	Sandbox_Respawn_option5 = "2 mêses de intervalo",
 	
 	Sandbox_SeenHoursPreventLootRespawn = "IMPEDIR A REALOCAÇÃO DE LOOT:",
-	Sandbox_SeenHoursPreventLootRespawn_tooltip = "Quando> 0, o saque não reaparecerá nas zonas que foram visitadas dentro deste número de horas.",
+	Sandbox_SeenHoursPreventLootRespawn_tooltip = ""Quando colocado 0, o loot não reaparecerá nas zonas que foram visitadas dentro deste número de horas.",
 	
 	Sandbox_TimeSinceApo = "MESES DESDE O APOCALIPSE:",
 	Sandbox_TimeSinceApo_tooltip = "Isso afetará a erosão do mundo e a validade dos alimentos.",
